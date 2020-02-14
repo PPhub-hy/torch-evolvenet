@@ -11,7 +11,7 @@ Environment
 
 Steps to run
 ------
-**Prepare the Dataset**: Put the batch files in the certain path torch-evolvenet/lib/ CIFAR10_dataset/   
+**Prepare the Dataset**: Put the batch files in the certain path, `torch-evolvenet/lib/ CIFAR10_dataset/`.   
 **Run any pleasant python script provided.**
 
 Explanations
